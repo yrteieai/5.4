@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\5.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52B905AB-0B58-4088-B173-A8312E93D2C5}|5.4\\5.4.vcxproj|C:\\Users\\USER\\source\\repos\\5.4\\5.4\\5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52B905AB-0B58-4088-B173-A8312E93D2C5}|5.4\\5.4.vcxproj|solutionrelative:5.4\\5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AA4BE6-4E39-407A-A46F-DABE712FA843}|UnitTest5.4\\UnitTest5.4.vcxproj|C:\\Users\\USER\\source\\repos\\5.4\\UnitTest5.4\\UnitTest5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9AA4BE6-4E39-407A-A46F-DABE712FA843}|UnitTest5.4\\UnitTest5.4.vcxproj|solutionrelative:UnitTest5.4\\UnitTest5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest5.4.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\5.4\\UnitTest5.4\\UnitTest5.4.cpp",
+              "RelativeDocumentMoniker": "UnitTest5.4\\UnitTest5.4.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\5.4\\UnitTest5.4\\UnitTest5.4.cpp",
+              "RelativeToolTip": "UnitTest5.4\\UnitTest5.4.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T14:38:10.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.4.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\5.4\\5.4\\5.4.cpp",
+              "RelativeDocumentMoniker": "5.4\\5.4.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\5.4\\5.4\\5.4.cpp",
+              "RelativeToolTip": "5.4\\5.4.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T14:29:06.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
